@@ -1,0 +1,13 @@
+td {
+    height: 20px;
+    width: 150px;
+    border: 1px dotted blue;
+}
+
+#dialog {
+    display: none;
+}
+
+.ui-menu {
+    width: 150px;
+}
